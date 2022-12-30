@@ -1,0 +1,7 @@
+0 01 * * * python3 /mnt/c/Users/Second/Desktop/project/code/pars_kommersant_ru.py
+2 01 * * * python3 /mnt/c/Users/Second/Desktop/project/code/pars_vedomosti_ru.py
+4 01 * * * python3 /mnt/c/Users/Second/Desktop/project/code/pars_lenta_ru.py
+6 01 * * * python3 /mnt/c/Users/Second/Desktop/project/code/etl_linux.py
+8 01 * * * python3 /mnt/c/Users/Second/Desktop/project/code/date_end.py
+10  01 * * * sh /mnt/c/Users/Second/Desktop/project/code/data_transfer_pars.sh
+12 01 * * * sh /mnt/c/Users/Second/Desktop/project/code/data_transfer_reports.sh
